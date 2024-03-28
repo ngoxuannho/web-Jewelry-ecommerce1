@@ -6,8 +6,7 @@ const { secret } = require('./secret');
 module.exports.sendEmail = (body, res, message) => {
   const transporter = nodemailer.createTransport({
     host: secret.email_host,
-    service: secret.email_service, //comment this line if you use custom server/domain
-    port: secret.email_port,
+    service: secret.email_service, 
     secure: true,
     auth: {
       user: secret.email_user,

@@ -16,6 +16,15 @@ module.exports.secret = {
   email_host: process.env.HOST,
   email_port: process.env.EMAIL_PORT, 
 
+  
+
+//test 
+  // email_service: 'gmail',
+  // email_user: 'nhongo10092002@gmail.com',
+  // email_pass: '01219434257',
+  // email_host:'smtp.ethereal.email',
+  // email_port: '465', 
+
   cloudinary_name: process.env.CLOUDINARY_NAME, 
   cloudinary_api_key: process.env.CLOUDINARY_API_KEY, 
   cloudinary_api_secret: process.env.CLOUDINARY_API_SECRET, 

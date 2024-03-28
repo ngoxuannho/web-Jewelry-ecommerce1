@@ -93,7 +93,7 @@ const forgetPassword = async (req, res,next) => {
         <p style="margin-top: 35px;">If you did not initiate this request, please contact us immediately at support@shofy.com</p>
 
         <p style="margin-bottom:0px;">Thank you</p>
-        <strong>Shofy Team</strong>
+        <strong> Team web </strong>
         `,
       };
       admin.confirmationToken = token;

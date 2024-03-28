@@ -125,4 +125,6 @@ To get started with Shofy, follow these steps:
 We hope you find Shofy to be a powerful and effective solution for your eCommerce needs. Should you encounter
 
  any issues or have any questions, please feel free to reach out to our support team at swe.hamedhasan@gmail.com. Happy selling!
- 
+ #   w e b - J e w e l r y - e c o m m e r c e 1  
+ #   w e b - d e m o  
+ 

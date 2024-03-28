@@ -40,9 +40,9 @@ const adminSchema = new mongoose.Schema(
       default: "Active",
       enum: ["Active", "Inactive"],
     },
-    password: {
+    password:{
       type: String,
-      required: false,
+      required: true,
       default: bcrypt.hashSync("12345678"),
     },
     role: {

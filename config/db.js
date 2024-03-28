@@ -3,8 +3,9 @@ const { secret } = require('./secret');
 
 mongoose.set('strictQuery', false);
 
-// local url 
-const DB_URL = 'mongodb://0.0.0.0:27017/shofy'; 
+// local url mongodb://localhost:27017
+// const DB_URL = 'mongodb://0.0.0.0:27017/shofy'; 
+const DB_URL = 'mongodb://localhost:27017/shofy'; 
 // mongodb url
 const MONGO_URI = secret.db_url;
 
